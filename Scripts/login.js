@@ -1,6 +1,6 @@
 const allowedFirstNames = [
   "ahmed",
-  "mohamed",
+  "mohammed",
   "adham",
   "ehap",
   "ali",
