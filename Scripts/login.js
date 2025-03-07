@@ -6,12 +6,12 @@ const allowedFirstNames = [
   "ali",
   "amgad",
   "khaled",
-  "Mahmoud",
-  "Mahmoud",
-  "MOHAMED",
+  "mahmoud",
+  "mahmoud",
+  "mohamed",
   "ahmed",
-  "Ibrahim",
-  "Mohab",
+  "ibrahim",
+  "mohab",
 ];
 
 const allowedLastNames = [
@@ -22,11 +22,11 @@ const allowedLastNames = [
   "mohamed",
   "hossam",
   "elmoataz",
-  "Elmasry",
-  "Safwat",
-  "WALEED",
+  "elmasry",
+  "safwat",
+  "waleed",
   "mohamed",
-  "Mohsen",
+  "mohsen",
   "mohamed",
 ];
 
