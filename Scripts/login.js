@@ -7,9 +7,9 @@ const allowedFirstNames = [
   "amgad",
   "khaled",
   "mahmoud",
-  "mahmoud",
+  "mahmod",
   "mohamed",
-  "ahmed",
+  "ahmd",
   "ibrahim",
   "mohab",
 ];
@@ -25,9 +25,9 @@ const allowedLastNames = [
   "elmasry",
   "safwat",
   "waleed",
-  "mohamed",
+  "mohmed",
   "mohsen",
-  "mohamed",
+  "mohammed",
 ];
 
 const loginForm = document.getElementById("loginForm");
